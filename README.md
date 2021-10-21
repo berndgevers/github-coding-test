@@ -6,7 +6,7 @@ _This project was bootstrapped with create-react-app_
 
 In the project directory, you can run:
 
-`yarn `  - to install the necessary node_modules
+`yarn`  - to install the necessary node_modules
 
 `yarn start`  - to run the project
 
