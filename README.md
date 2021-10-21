@@ -5,7 +5,10 @@ _This project was bootstrapped with create-react-app_
 ## Scripts
 
 In the project directory, you can run:
-### `yarn start`
+
+`yarn `  - to install the necessary node_modules
+
+`yarn start`  - to run the project
 
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
@@ -34,9 +37,11 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ### 3
 - Ideally this data would be persisted to a database, ready for retrieval even after the website is closed.
+  
   - Storing the user's id as a reference so that different users can login and out and receive only their saved commits
-
+  
 - For this project it was stored locally on the user's device
 
   
+
 ### by Bernd Gevers
